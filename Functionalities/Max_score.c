@@ -1,4 +1,4 @@
-//WHY MAX HEAP?
+//WHY MAX HEAP ?
 /*1)Constant Time Retrieval: In a max-heap, the maximum element is always at the root. Thus, finding the maximum
 element involves a simple lookup operation at the root, resulting in constant time complexity (O(1)). In 
 contrast, searching for the maximum element in an unsorted array would require linear time (O(n)).
