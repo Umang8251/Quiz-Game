@@ -1,6 +1,0 @@
-1.Stack
-A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle, meaning the most recently added element is the first one to be removed. It has two main operations: "push," which adds an element to the top of the stack, and "pop," which removes the top element. Stacks are commonly used for managing function calls, expression evaluation, and undo functionality in software applications.
-
-2.Priority queue
-A priority queue is a data structure that stores a collection of elements, each associated with a priority. It allows for efficient retrieval of the element with the highest (or lowest) priority, depending on the specific implementation. Priority queues are often used in algorithms and applications where elements need to be processed in a specific order based on their priorities, such as task scheduling, Dijkstra's algorithm, and heap data structures.
-
