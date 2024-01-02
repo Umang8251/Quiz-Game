@@ -78,7 +78,7 @@ void displayrules()
 
 int quizgame()
 {
-	printf("A miniproject brought to you by\nUmang and Namita\n");
+	printf("A miniproject brought to you by\nUmang,Tanuja,Varsha and Namita\n");
 	printf("A quizeria using STACK as the data structure to pop the first and most valued question at last.\n");
     STACK1 *ptr1=NULL,s1;//Declaring
 	ptr1=&s1;
