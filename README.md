@@ -1,5 +1,5 @@
 # Quiz Game
-This is a Quiz Game programmed in C language by Umang, designed using various data structures such as Stacks ,Priority Queue, Maximum Heap. It is a project from 3rd semester of PES University, Bengaluru under course Data Structures and its Applications.
+This is a Quiz Game programmed in C language by Umang, designed using various data structures such as Stacks, and Priority Queue. It is a project from 3rd semester of PES University, Bengaluru under course Data Structures and its Applications.
 
 The files have to be run with the make -f palin_make.mk command on the command prompt followed by a.exe command.
 
