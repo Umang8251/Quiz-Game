@@ -1,0 +1,43 @@
+[I]Program Overview:
+
+The objective of this project is to construct a program implementing a quiz game, in which all the questions asked are with respect to the concepts covered in this course i.e. Data Structures and Applications.
+Every question implemented here is a multiple choice question with four options and only one correct answer. There are also three lifelines enabled here :
+1)50-50 : Two incorrect options are removed and the user has to guess the correct answer out of two options instead of four.
+2)Elementary Watson : The computer gives the user a hint regarding the correct answer.
+3)Double Dip : The user gets two chances to answer a question.
+The game ends immediately when a wrong answer is given.
+After the program ends, the points earned by the user is displayed.
+The user can also compare the performance with other users in a leaderboard feature here.
+It also displays the highest score.
+
+[II]Data Structures Used:
+
+1.Stacks- To store questions and the respective correct answers separately in two different stacks.
+2.Priority Queue - For displaying the Leaderboard.
+
+[III]Functionalities:
+
+1)Question Selection and Display:
+The program will start by selecting questions related to Data Structures and Applications.
+For each question, the program will display the question, along with four multiple-choice options (A, B, C, D).
+2)Scoring:
+At the beginning of the game, the user starts with a score of 0.
+For each correct answer, the user's score increases by 1 points.
+3)Lifelines:
+There are three lifelines available,
+a)50-50 Lifeline:
+When used, two incorrect options are removed from the choices, leaving the user with two options to choose from.
+b)Elementary Watson:
+When used, the computer provides a hint or clue about the correct answer, helping the user make an informed choice
+c)Double Dip:The user can use this lifeline to have two chances to answer a question. If the user gets the answer wrong on the first attempt, they can try again.
+4)Comments:The program gives comments regarding each user’s performance.
+5)Game Over:
+The game ends immediately when the user gives a wrong answer.
+The final score of the user is displayed.
+6)Highest Score: This displays the highest score scored by a player.
+7)Leaderboard:
+After the game ends, the program provides an option for the user to compare their performance with other users in a leaderboard feature.
+The leaderboard displays the user's rank and their score
+
+
+
