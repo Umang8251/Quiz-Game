@@ -25,7 +25,7 @@ Software: The latest and updated version of C, with an appropriate compiler for 
      npm install
 
 
-
+<!--
 ## Contributing
 
 1) Fork the project.
@@ -33,6 +33,7 @@ Software: The latest and updated version of C, with an appropriate compiler for 
 3) Commit your changes (git commit -am 'Add some feature').
 4) Push to the branch (git push origin feature/your-feature).
 5) Open a pull request.
+-->
 
 ## License
 This project is licensed under the MIT License.
