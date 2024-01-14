@@ -24,7 +24,6 @@ Software: The latest and updated version of C, with an appropriate compiler for 
 3. *Install dependencies:*
      npm install
 
-4. *Configure the application:*
 
 
 ## Contributing
