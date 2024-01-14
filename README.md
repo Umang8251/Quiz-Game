@@ -11,9 +11,11 @@ Software: The latest and updated version of C, with an appropriate compiler for 
 ## Installation
 
 1. *Clone the repository:*
+   
    git clone https://github.com/Umang8251/Quiz-Game.git
 
 2. *Navigate to the project directory:*
+   
      cd Quiz-Game
 
 ## Usage
