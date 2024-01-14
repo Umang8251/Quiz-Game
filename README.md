@@ -21,8 +21,6 @@ Software: The latest and updated version of C, with an appropriate compiler for 
 2. *Navigate to the project directory:*
      cd Quiz-Game
 
-3. *Install dependencies:*
-     npm install
 
 
 <!--
