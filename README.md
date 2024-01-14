@@ -2,10 +2,6 @@
 This is a Quiz Game programmed in C language by Umang, designed using various data structures such as Stacks, and Priority Queue. It is a project from 3rd semester of PES University, Bengaluru under course Data Structures and its Applications.
 
 ## Requirements(hardware and software) :
-The files have to be run with the make -f palin_make.mk command on the command prompt followed by a.exe command.
-
-Instruction to install make: https://linuxhint.com/run-makefile-windows/
-
 To run this program you will require :
 
 Hardware: A fully-functional computer system with all basic hardware such as mouse, keyboard, etc.
@@ -20,6 +16,10 @@ Software: The latest and updated version of C, with an appropriate compiler for 
 2. *Navigate to the project directory:*
      cd Quiz-Game
 
+## Usage
+The files have to be run with the make -f palin_make.mk command on the command prompt followed by a.exe command.
+
+Instruction to install make: https://linuxhint.com/run-makefile-windows/
 
 
 <!--
