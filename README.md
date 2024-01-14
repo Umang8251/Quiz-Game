@@ -21,19 +21,19 @@ Software: The latest and updated version of C, with an appropriate compiler for 
 2. *Navigate to the project directory:*
      cd Quiz-Game
 
-3.*Install dependencies:*
+3. *Install dependencies:*
      npm install
 
-4.*Configure the application:*
+4. *Configure the application:*
 
 
 ## Contributing
 
-1)Fork the project.
-2)Create your feature branch (git checkout -b feature/your-feature).
-3)Commit your changes (git commit -am 'Add some feature').
-4)Push to the branch (git push origin feature/your-feature).
-5)Open a pull request.
+1) Fork the project.
+2) Create your feature branch (git checkout -b feature/your-feature).
+3) Commit your changes (git commit -am 'Add some feature').
+4) Push to the branch (git push origin feature/your-feature).
+5) Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
